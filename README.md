@@ -2,7 +2,7 @@
 
 **The Geometric Entropy Ansatz: Investigating the Hubble Tension via Holographic Scaling**
 
-This repository contains the codebase and theoretical framework for the **Osacra-Holographic Ansatz**, a parameter-free extension to $\Lambda$CDM that investigates whether the Hubble Tension ($H_0$) can be resolved by a dynamic vacuum energy coupled to cosmic entropy.
+This repository contains the codebase and theoretical framework for the **Osacra-Holographic Ansatz**, a parameter-free extension to $\Lambda$ CDM that investigates whether the Hubble Tension ($H_0$) can be resolved by a dynamic vacuum energy coupled to cosmic entropy.
 
 ## The Theory in Brief
 
@@ -114,4 +114,5 @@ If you use this code or theory, please cite:
 
 ```text
 Osacra, R. (2025). "The Geometric Entropy Solution: Resolving the Hubble Tension via Holographic Scaling."
+
 ```
